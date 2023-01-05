@@ -23,7 +23,7 @@
         Console.WriteLine("Length of First Line "+length);
         Console.WriteLine("Lenth of Second Line " + length2);
         //checking equality of two line 
-        bool line = (length.Equals(length2));
+        bool line = length.Equals(length2);
         if (line == true )
         {
             Console.WriteLine("Length of two lines are equals ");
