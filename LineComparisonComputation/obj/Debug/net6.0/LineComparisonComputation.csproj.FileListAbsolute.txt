@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/bin/Debug/net6.0/LineComparisonComputation
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/bin/Debug/net6.0/LineComparisonComputation.deps.json
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/bin/Debug/net6.0/LineComparisonComputation.runtimeconfig.json
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/bin/Debug/net6.0/LineComparisonComputation.dll
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/bin/Debug/net6.0/LineComparisonComputation.pdb
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/LineComparisonComputation.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/LineComparisonComputation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/LineComparisonComputation.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/LineComparisonComputation.AssemblyInfo.cs
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/LineComparisonComputation.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/LineComparisonComputation.dll
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/refint/LineComparisonComputation.dll
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/LineComparisonComputation.pdb
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/LineComparisonComputation.genruntimeconfig.cache
+/Users/piyushshaw/Projects/LineComparisonComputation/LineComparisonComputation/obj/Debug/net6.0/ref/LineComparisonComputation.dll
