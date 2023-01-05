@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{A0B82A51-F463-47F5-B740-8B8C48B37146}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LineComparisonComputation FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LineComparisonComputation/Program.cs">
+    <Files>
+      <File FileName="LineComparisonComputation/Program.cs" Line="51" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LineComparisonComputation" expanded="True">
+            <Node name="LineComparisonComputation" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LineComparisonComputation PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

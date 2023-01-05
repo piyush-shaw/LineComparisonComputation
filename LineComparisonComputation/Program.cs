@@ -17,20 +17,34 @@
         Console.WriteLine("Enter the value of b1 and b2 ");
         b1 = Convert.ToInt32(Console.ReadLine());
         b2 = Convert.ToInt32(Console.ReadLine());
-        //calculating the length of line
+        //calculating the length of lines
         length = Math.Sqrt(Math.Pow((x2 - x1), 2) + Math.Pow((y2 - y1), 2));
         length2 = Math.Sqrt(Math.Pow((a2 - a1), 2) + Math.Pow((b2 - b1), 2));
         Console.WriteLine("Length of First Line "+length);
         Console.WriteLine("Lenth of Second Line " + length2);
-        //checking equality of two line 
+        //checking equality of two lines 
         bool line = length.Equals(length2);
         if (line == true )
         {
-            Console.WriteLine("Length of two lines are equals ");
+            Console.WriteLine("Two lines are equal");
         }
         else
         {
-            Console.WriteLine("Length of two lines are not equals");
+            Console.WriteLine("Two lines are not equal");
+        }
+        //comparing length of two lines
+        double difference = length.CompareTo(length2);
+        if (difference < 0)
+        {
+            Console.WriteLine("Length of first line is less than second line");
+        }
+        else if (difference > 0)
+        {
+            Console.WriteLine("Length of first line is greater than second line");
+        }
+        else
+        {
+            Console.WriteLine("Length of two lines are equal");
         }
 
     }
